@@ -1,0 +1,1 @@
+U fajlu ulaz.txt ima 7 reci. Najduza pronadjena rec je naughty
